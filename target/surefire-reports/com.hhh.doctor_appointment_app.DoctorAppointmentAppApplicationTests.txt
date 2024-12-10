@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.hhh.doctor_appointment_app.DoctorAppointmentAppApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 18.71 s -- in com.hhh.doctor_appointment_app.DoctorAppointmentAppApplicationTests
